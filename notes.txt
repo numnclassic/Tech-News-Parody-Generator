@@ -1,0 +1,2 @@
+# Ideas
+Install new dependency for advanced logging features
